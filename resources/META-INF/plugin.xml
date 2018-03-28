@@ -1,7 +1,7 @@
-<idea-plugin version="2">
+<idea-plugin>
   <id>com.reedcwilson.titlesimple</id>
   <name>Reed's Simple Window Titles</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor url="https://github.com/reedcwilson/intellij-titlesimple">Reed Wilson</vendor>
 
   <description><![CDATA[
